@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="WheelArrayConstellation">
-        <item>水瓶座</item>
+        <!--<item>水瓶座</item>
         <item>双鱼座</item>
         <item>白羊座</item>
         <item>金牛座</item>
@@ -12,10 +12,10 @@
         <item>天秤座</item>
         <item>天蝎座</item>
         <item>射手座</item>
-        <item>摩羯座</item>
+        <item>摩羯座</item>-->
     </string-array>
     <string-array name="WheelArrayZodiac">
-        <item>鼠</item>
+        <!--<item>鼠</item>
         <item>牛</item>
         <item>虎</item>
         <item>兔</item>
@@ -26,6 +26,6 @@
         <item>猴</item>
         <item>鸡</item>
         <item>狗</item>
-        <item>猪</item>
+        <item>猪</item>-->
     </string-array>
 </resources>
